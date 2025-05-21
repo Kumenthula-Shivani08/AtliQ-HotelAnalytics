@@ -5,6 +5,22 @@ AtliQ Grands, a luxury hotel chain with 20 years of experience, is facing a decl
 
 ---
 
+## ✅ Project Aims
+
+- Analyze hotel and room category performance across different cities.  
+- Understand customer booking behavior by time and platform.  
+- Identify trends in occupancy, cancellations, and revenue realization.  
+- Detect seasonal trends and identify top- and low-performing properties.  
+- Recommend data-driven strategies to increase occupancy and revenue.
+  
+## 🛠️ Tools Used
+
+- **Power BI Desktop** – Building interactive dashboards and reports with DAX-based KPIs.  
+- **Power Query Editor** – Data cleaning and transformation within Power BI.  
+- **DAX** – Calculating key metrics like Revenue, ADR, RevPAR, and creating calculated columns such as day types.  
+- **Microsoft Excel** – Initial data cleaning and validation before analysis.  
+
+
 ## 📁 Data Sources
 
 All datasets are in CSV format, covering various dimensions and facts related to hotel bookings:
